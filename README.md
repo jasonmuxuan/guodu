@@ -10,6 +10,7 @@
 
 - 源码目录：[`skills/xiaohongshu-industry-monitor/`](skills/xiaohongshu-industry-monitor/)
 - 安装包：[`xiaohongshu-industry-monitor.skill`](xiaohongshu-industry-monitor.skill)（zip 格式，可直接导入支持 `.skill` 的客户端）
+- 正式版本：[Releases](https://github.com/jasonxuan978-droid/guodu/releases) · [v1.0.0 安装包下载](https://github.com/jasonxuan978-droid/guodu/releases/download/xiaohongshu-industry-monitor-v1.0.0/xiaohongshu-industry-monitor.skill)
 - 依赖：`opencli`，且需已登录的小红书持久化浏览器会话
 - 许可：MIT
 
